@@ -4,9 +4,6 @@
 - 🌱 Estudando JavaScript 
 - 📫 Contate-me no email: raulmigliari5@gmail.com
 
-![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulMigliari&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMigliari&layout=donut)]
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Raul-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
     <img align="center" alt="Raul-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
