@@ -65,6 +65,14 @@ Almejo me profissionalizar em full stack com paixão por **projetos reais**, **a
 
 ---
 
-<p align="center">
-  ✨ <i>“Construindo soluções de verdade, uma linha de código por vez.”</i> ✨  
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <em>✨ “Construindo soluções de verdade, uma linha de código por vez.” ✨</em>
+    </td>
+    <td>
+      <img src="./assets/octocatRaulMgl.png" width="80" alt="Octocat Raul" />
+    </td>
+  </tr>
+</table>
+
